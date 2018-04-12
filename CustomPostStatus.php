@@ -1,7 +1,7 @@
 <?php
 
 /*
-Plugin Name: Cusotm Post Status
+Plugin Name: Custom Post Status
 Description: Easily create custom post statuses within WordPress for one or more custom post types.
 Author: Jen Wachter
 Version: 0.1
